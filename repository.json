@@ -9,9 +9,6 @@
         "artifacts": [
           {
             "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/lucene-analyzers-opennlp-8.8.2.jar"
-          },
-          {
-            "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/opennlp-tools-1.9.2.jar"
           }
         ]
       }
