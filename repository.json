@@ -1,7 +1,7 @@
 [
   {
-    "name": "opennlptools",
-    "description": "Opennlp plugin for solr",
+    "name": "opennlp-tools",
+    "description": "Opennlp tools plugin for solr",
     "versions": [
       {
         "version": "1.2.0",
@@ -9,11 +9,13 @@
         "artifacts": [
           {
             "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/opennlp-tools-1.9.2.jar",
-	    "sig": "lYlpSoijFkgKH90BCRmv/5MQjGF7SH+GWQ9w5mAXbKbcilOWuu91wyRWM8nUN1THGhXGzu7cvUTWwNg=="
+            "sig": "lYlpSoijFkgKH90BCRmv/5MQjGF7SH+GWQ9w5mAXbKbcilOWuu91wyRWM8nUN1THGhXGzu7cvUTWwNg=="
           }
-        ]
+	],
+        "manifest": {
+          "version-constraint": "8 - 9"
+          }
       }
     ]
   }
 ]
-
