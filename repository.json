@@ -1,6 +1,6 @@
 [
   {
-    "name": "opennlp-tools",
+    "name": "opennlp",
     "description": "Opennlp tools plugin for solr",
     "versions": [
       {
@@ -8,12 +8,10 @@
         "date": "2021-06-18",
         "artifacts": [
           {
-            "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/opennlp-tools-1.9.2.jar",
-            "sig": "gFsaWUMC+gz7Ac5PdkL9tPGShvMKt6TLGRQFhobRT3lTb6Rpj/FgrOEVJHQB892g/nr3/CwoMMMWBvWmF4Cr8w=="
+            "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/opennlp-tools-1.9.2.jar"
           },
           {
-            "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/lucene-analyzers-opennlp-8.8.2.jar",
-            "sig": "A/dODO/IT369D10K8LEHDgL8KIErVShya1ctMsCv5bVe1o68EmzN5X2poWNsxk5eiAp6bywoR+6Ojc1zks40+A=="
+            "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/lucene-analyzers-opennlp-8.8.2.jar"
           }
 	],
         "manifest": {
