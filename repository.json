@@ -1,0 +1,20 @@
+[
+  {
+    "name": "opennlpsolr",
+    "description": "Opennlp plugin for solr",
+    "versions": [
+      {
+        "version": "1.2.0",
+        "date": "2021-06-18",
+        "artifacts": [
+          {
+            "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/lucene-analyzers-opennlp-8.8.2.jar"
+          },
+          {
+            "url": "https://github.com/aidanjbailey/solr-plugins/blob/master/opennlp-tools-1.9.2.jar"
+          },
+        ]
+      }
+    ]
+  }
+]
